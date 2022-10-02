@@ -1,4 +1,4 @@
-# Dusk-Drive-Game-Project
+# Dusk-Drive-Game
 
 This is a 2-dimensional car game designed in Python using the Pygame module.
 
